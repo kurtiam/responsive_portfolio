@@ -1,4 +1,4 @@
-# Responsive Portfolio Hoemwork
+# Responsive Portfolio Homework
 Created a basic responsive BIO Site to show Portfolio and have a means of Contact
 
 ## Tasks Accomplished 
